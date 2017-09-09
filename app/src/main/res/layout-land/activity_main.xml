@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/xml_mybackground">
+
+    <RelativeLayout
+        android:layout_width="310dip"
+        android:layout_height="200dip"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/relativeLayout"
+        android:id="@+id/relativeLayout2">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/_circle_link"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            fresco:failureImage="@drawable/circle_link_offline"
+            fresco:placeholderImage="@drawable/circle_link_offline" />
+        <Button
+            android:id="@+id/_id_button_publish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="@drawable/xml_button_publish_active"
+            android:layout_alignTop="@+id/_circle_link"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dip"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="310dip"
+        android:layout_height="186dip"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/relativeLayout">
+
+        <ImageView
+            android:id="@+id/_bottom_bar"
+            android:src="@drawable/xml_bottom_bar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/_id_button_setting"
+            android:layout_width="26dip"
+            android:layout_height="26dip"
+            android:adjustViewBounds="true"
+            android:background="@drawable/xml_button_setting"
+            android:layout_alignTop="@+id/_bottom_bar"
+            android:layout_marginLeft="205dip"
+            android:layout_marginTop="34dip"/>
+
+        <Button
+            android:id="@+id/_id_button_subscribe"
+            android:layout_width="46dip"
+            android:layout_height="46dip"
+            android:adjustViewBounds="true"
+            android:background="@drawable/xml_button_subscribe"
+            android:scaleType="centerCrop"
+            android:layout_alignTop="@+id/_bottom_bar"
+            android:layout_marginLeft="118dip"
+            android:layout_marginTop="98dip"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/relativeLayout2"></RelativeLayout>
+
+</RelativeLayout>

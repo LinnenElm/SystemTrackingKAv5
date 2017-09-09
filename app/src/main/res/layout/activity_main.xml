@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#262626">
+
+    <RelativeLayout
+        android:layout_width="310dp"
+        android:layout_height="400dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/parentlayout">
+    <RelativeLayout
+        android:layout_width="310dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/relativeLayout02"
+        android:id="@+id/relativeLayout3">
+        <ImageView
+            android:id="@+id/view_button_setting"
+            android:src="@drawable/button_subscribe_base"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="20dp"
+            />
+        <Button
+            android:id="@+id/_id_button_setting"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/xml_button_setting"
+            android:scaleType="centerCrop"
+            android:layout_alignTop="@+id/view_button_setting"
+            android:layout_alignLeft="@+id/view_button_setting"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="310dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/relativeLayout01"
+        android:id="@+id/relativeLayout02">
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/view_button_publish"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            fresco:failureImage="@drawable/circle_link_offline"
+            fresco:placeholderImage="@drawable/circle_link_offline"/>
+        <Button
+            android:id="@+id/_id_button_publish"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:adjustViewBounds="true"
+            android:background="@drawable/xml_button_publish"
+            android:layout_alignTop="@+id/view_button_publish"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="65dip"/>
+        <ImageView
+            android:id="@+id/view_button_setting_title"
+            android:src="@drawable/button_setting_title"
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="310dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/relativeLayout01">
+
+        <ImageView
+            android:id="@+id/view_button_publish_title"
+            android:src="@drawable/button_publish_title"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <ImageView
+            android:id="@+id/view_button_subscribe"
+            android:src="@drawable/button_subscribe_base"
+            android:layout_width="90dip"
+            android:layout_height="90dip"
+            android:layout_alignParentRight="true"
+            />
+        <Button
+            android:id="@+id/_id_button_subscribe"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:adjustViewBounds="true"
+            android:background="@drawable/xml_button_subscribe"
+            android:scaleType="centerCrop"
+            android:layout_alignTop="@+id/view_button_subscribe"
+            android:layout_alignLeft="@+id/view_button_subscribe"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="20dip"/>
+        <ImageView
+            android:id="@+id/view_button_subscribe_title"
+            android:src="@drawable/button_subscribe_title"
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_alignBottom="@+id/view_button_subscribe"
+            android:layout_alignLeft="@+id/view_button_subscribe"
+            android:layout_marginBottom="-15dp"
+            android:layout_marginLeft="20dp"/>
+
+        <ImageView
+            android:id="@+id/view_alert_status"
+            android:src="@drawable/alert_status_title"
+            android:layout_width="150dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignBottom="@+id/view_button_subscribe"
+            android:layout_marginBottom="-50dp"
+            android:layout_marginLeft="25dp"/>
+        <ImageView
+            android:id="@+id/view_alert_status_lamp"
+            android:src="@drawable/alert_status_off"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/view_alert_status"
+            android:layout_alignRight="@+id/view_alert_status"
+            android:layout_marginRight="-25dp"/>
+
+    </RelativeLayout>
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
