@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe_base.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe_base.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting_base.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting_base.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe_on_focus.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe_on_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gear_icon.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\gear_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe_main_focus.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe_main_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alert_status_title.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\alert_status_title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting_main_focus.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting_main_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_publish_on.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_publish_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bottom_bar.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\bottom_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting_main_standby.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting_main_standby.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alert_status_off.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\alert_status_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle_link_offline.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\circle_link_offline.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_publish_title.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_publish_title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting_title.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting_title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe_title.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe_title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_publish_pressed.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_publish_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alert_status_on.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\alert_status_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe_main_pressed.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe_main_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting_on_focus.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting_on_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_publish_active.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_publish_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe_main_standby.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe_main_standby.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_setting_main_pressed.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_setting_main_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dope_texture.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\dope_texture.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_publish_focus.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_publish_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_publish_standby.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_publish_standby.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_subscribe.png",
+        "source": "D:\\AndroidStudioProject\\SystemTrackingKAv5\\app\\src\\main\\res\\drawable-xhdpi\\button_subscribe.png"
+    }
+]

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_59cc3135febb079c7f7a5885c187e1365cef7e9b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.10.0_57434056325043dd6c153f5cdc24b154f93c3108\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_7bdda41830edf47b2e2a092d014bc5f7884d3f36\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_7bdd5a6994ee20ee1c5d7e6370576d53b458ecbf\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_df1515624a3325050c2832eb68399d4e1b3a232b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_8d491f564a30e5f4e24b420f65120d119169f6ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.10.0_5e5454fd2c99c90b062972761b89f1fff841265d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_919200011b882ac2371a5b5d28a7b8502201f0ad\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62da4d2ad7345284cdd1030fb924a47529778f8">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.client.mqttv3-1.0.2_aafc2787ec207b6b0ba74876a2454407f2d93d38\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f2aa1ed628842edd0b35297c73da282e018231f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40bf368bd65dc9b5e7b0719ac3ba25cc010cc685">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.android.service-1.0.2_ace92901985f94e712c67825e29145ab74c58f9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sapta Oryza Putra\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_93a9e3a6d9d6996131a9b0651f1c51d1e29fb0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.10.0_3179225cfc30e81004706f9f1cc51c4499081281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\libs\genymotion-api-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a80b8618bfcb187cf0ebf072b38f5d94977abd61">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\genymotion-api-1.0.2_8021658fc2c1da6be906f911401f4e11375779ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.10.0_c208e2282286bf004082ee1a4b0e22a5480309db\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.10.0_1506921a2ecf7d679ab5f2624b1c8d14a323230e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="682e5e4a5ac143145dddc5e77eab7b609432da23">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-base-0.10.0_4aa69dda6fad013b032af99b159fb47fa25cacf5\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_dd4eff84d02782d705a7dd49743e88382274f478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sapta Oryza Putra\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_67555b3449a58cd39022288b378410f1a2d56eeb\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47aef831e38120ca1d6fd3547c86cd5a9ed63905">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-gif-0.10.0_97f73d48929d925072384e3d9303510c8277615f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sapta Oryza Putra\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_93a9e3a6d9d6996131a9b0651f1c51d1e29fb0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_57cd181a8740cd7ea43f0b2214d2f0bf6810776b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_d187f826713a22b4d5c74f5a25899ce6538fb16b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_59cc3135febb079c7f7a5885c187e1365cef7e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_7bdda41830edf47b2e2a092d014bc5f7884d3f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.10.0_57434056325043dd6c153f5cdc24b154f93c3108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dc7d31c7c9e72506e57e57174781ec27ecd0a6f5">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5021938eedd833804a53031a03b16138946548c1\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.10.0_5e5454fd2c99c90b062972761b89f1fff841265d\classes.dex" />
+    </item>
+    <item
+        jar="D:\URANUS\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_f06f912e600523c946e83cbd8e085957603e1380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_9947d1473c83d9a8c5869d6493f76dae4baef21f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f2aa1ed628842edd0b35297c73da282e018231f4\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55de95d23273a87e2f474d1d0513bb919ac6f545">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5021938eedd833804a53031a03b16138946548c1\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_fd88515fa752dc8b1a1e60b67dcd09d0bbcd5a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.10.0_c208e2282286bf004082ee1a4b0e22a5480309db\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="682e5e4a5ac143145dddc5e77eab7b609432da23">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-base-0.10.0_4aa69dda6fad013b032af99b159fb47fa25cacf5\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40bf368bd65dc9b5e7b0719ac3ba25cc010cc685">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.android.service-1.0.2_ace92901985f94e712c67825e29145ab74c58f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1369b101d615d240f50d136fc2ca33a45b91b167">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1db8179755d19403e66ddf900bed5d736dd86f3\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_3ca175cbd88f6d13911726b143eb1c693dcf36d1\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_d187f826713a22b4d5c74f5a25899ce6538fb16b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_7bdd5a6994ee20ee1c5d7e6370576d53b458ecbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_dd4eff84d02782d705a7dd49743e88382274f478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_df1515624a3325050c2832eb68399d4e1b3a232b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62da4d2ad7345284cdd1030fb924a47529778f8">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.client.mqttv3-1.0.2_aafc2787ec207b6b0ba74876a2454407f2d93d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47aef831e38120ca1d6fd3547c86cd5a9ed63905">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-gif-0.10.0_97f73d48929d925072384e3d9303510c8277615f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_8d491f564a30e5f4e24b420f65120d119169f6ee\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_57cd181a8740cd7ea43f0b2214d2f0bf6810776b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.10.0_3179225cfc30e81004706f9f1cc51c4499081281\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\libs\genymotion-api-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a80b8618bfcb187cf0ebf072b38f5d94977abd61">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\2\genymotion-api-1.0.2_8021658fc2c1da6be906f911401f4e11375779ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.10.0_1506921a2ecf7d679ab5f2624b1c8d14a323230e\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_9947d1473c83d9a8c5869d6493f76dae4baef21f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_fd88515fa752dc8b1a1e60b67dcd09d0bbcd5a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\URANUS\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_f06f912e600523c946e83cbd8e085957603e1380\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_919200011b882ac2371a5b5d28a7b8502201f0ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sapta Oryza Putra\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_67555b3449a58cd39022288b378410f1a2d56eeb\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b96314d1f3fdea4405787eda25d62dd6a507e308">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1db8179755d19403e66ddf900bed5d736dd86f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\AndroidStudioProject\SystemTrackingKAv5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_3ca175cbd88f6d13911726b143eb1c693dcf36d1\classes.dex" />
+    </item>
+
+</items>
