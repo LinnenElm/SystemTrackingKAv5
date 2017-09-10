@@ -1,7 +1,8 @@
 # SystemTrackingKAv5
-# an Undergraduate Thesi- (＾ω＾ ≡ °д°)  トリガー 
-# a-anyway... *cough*
-Railway Tracking System Implementation Using Publish Subscribe Protocol
+#Railway Tracking System Implementation Using Publish Subscribe Protocol
+
+an Undergraduate Thesi- (＾ω＾ ≡ °д°)  トリガー 
+a-anyway... *cough*
 
 This study uses MQTT protocol (MQ Telemetry Transport) and Mosquitto broker to implement publish/subscribe architecture.
 MQTT external libraries in use:
